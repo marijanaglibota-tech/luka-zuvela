@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxanium:wght@200..800&display=swap');
+
+body {
+    background-color: rgb(0, 45, 168);
+    background-image: url("Pozadina.jpg");
+    margin: 0;
+}
+
+header {
+    border: solid #0026ff75;
+    text-align: center;
+    background-color: #00e1ff75;
+}
+
+section {
+    border: solid #0026ff75;
+    text-align: center;
+    background-color: #00e1ff75;
+}
+
+footer {
+    border: solid #00e1ff75;
+    text-align: center;
+    background-color: #0020d675;
+}
+
+h1 {
+    color: white;
+    font-family: Oxanium;
+    font-size: 250%;
+}
+
+    h1.naslov {
+        font-size: 275%;
+    }
+
+h2 {
+    color: white;
+    font-family: Oxanium;
+    font-size: 200%;
+}
+
+h3 {
+    color: white;
+    font-family: Oxanium;
+    font-size: 150%;
+}
+
+p {
+    color: white;
+    font-family: Oxanium;
+    font-style: italic;
+}
+
+hr {
+    height: 10px;
+    border: none;
+}
+
+img.Grad {
+    width: 40%;
+    border-radius: 1mm;
+    border: 2mm groove black;
+}
